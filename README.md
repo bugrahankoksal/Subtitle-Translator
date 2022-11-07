@@ -4,11 +4,14 @@ A simple tool for translating subtitles.
 
 To run this app, you need to install the following libraries:
 
-googletrans==4.0.0rc1
+1- googletrans==4.0.0rc1
 
-pysrt
+2- pysrt
 
-PyQt5
+3- PyQt5
+
+## pip3 install googletrans==4.0.0rc1 pysrt PyQt5
+
 
 
 Enjoy :)

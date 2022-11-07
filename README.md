@@ -1,4 +1,6 @@
-# Subtitle-Translator
+# WORK IN PROGRESS
+
+## Subtitle-Translator
 A simple tool for translating subtitles.
 
 
